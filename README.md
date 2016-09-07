@@ -4,4 +4,4 @@
 bruce
 =====
 
-http://blog.yetone.net 的源代码。
+http://blog.yetone.net 的源代码
